@@ -1,1 +1,2 @@
 # Machine_learning_homework_tasks
+This repository contains machine learning homework tasks completed as part of a data science mentoring program in which I'm a mentee. The machine learning  homework tasks are conducted using Python programming language and presented in Jupyter notebooks. The repository aims to showcase my progress in gaining knowledge and skills in data science and machine learning.
